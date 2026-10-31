@@ -12,8 +12,8 @@ You can check out some of my favorite works in my pinned repositories below!
 
 ### Tools & Tech
 
-- HTML, CSS, JavaScript, React
-- React Native & Expo for mobile apps
+- HTML, CSS, JavaScript, TypeScript, React
+- React Native, Expo, Tailwind CSS (NativeWind) for mobile apps
 - Node.js, Python, SQL
 - VS Code, Git, Figma
 
