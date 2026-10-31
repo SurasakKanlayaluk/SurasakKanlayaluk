@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
-I'm **Surasak**, an aspiring web applications developer based in Thailand.
+I'm **Surasak**, an aspiring web app developer based in Thailand.
 
 I love designing and building clean, interactive web applications. If an idea pops into my head, chances are I'll start sketching it out and figuring out how to build it.
 
